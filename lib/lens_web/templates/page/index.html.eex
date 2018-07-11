@@ -1,0 +1,21 @@
+<div class="upload-bar">
+  <div id="upload">
+    <div id="branding">Lens</div>
+    <div class="buttons" id="upload-button">Upload</div>
+    <div class="buttons" id="share-button">Share</div>
+  </div>
+
+
+<div class="grid-wrapper">
+  <div class="grid-layout">
+    <div class="image">1</div>
+    <div class="image">2</div>
+    <div class="image">3</div>
+    <div class="image">4</div>
+    <div class="image">5</div>
+    <div class="image">6</div>
+    <div class="image">7</div>
+    <div class="image">8</div>
+    <div class="image">9</div>
+  </div>
+</div>
